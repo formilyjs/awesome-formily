@@ -4,6 +4,7 @@
 * Tools
   * [Formily DevTools](https://chrome.google.com/webstore/detail/formily-devtools/kkocalmbfnplecdmbadaapgapdioecfm?hl=zh-CN)
   * [Formily Designable](https://designable-antd.formilyjs.org/)
+  * [Vue3 Element-plus Designable](https://github.com/qq1037305420/element-plus)
 * Projects using formily
   * [NocoBase](https://github.com/nocobase/nocobase)
   * [more](https://github.com/alibaba/formily/discussions/1405)
