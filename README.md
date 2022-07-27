@@ -5,6 +5,7 @@
   * [Formily DevTools](https://chrome.google.com/webstore/detail/formily-devtools/kkocalmbfnplecdmbadaapgapdioecfm?hl=zh-CN)
   * [Formily Designable](https://designable-antd.formilyjs.org/)
   * [Vue3 Element-plus Designable](https://github.com/qq1037305420/element-plus)
+  * [lowcode-designable-taro-react](https://github.com/weilaiqishi/lowcode-designable-taro-react)
 * Projects using formily
   * [NocoBase](https://github.com/nocobase/nocobase)
   * [more](https://github.com/alibaba/formily/discussions/1405)
